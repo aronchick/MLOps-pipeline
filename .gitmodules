@@ -1,0 +1,8 @@
+[submodule "MLOps-code"]
+	path = MLOps-code
+	url = https://github.com/aronchick/MLOps-code.git
+	branch = master
+[submodule "MLOps-data"]
+	path = MLOps-data
+	url = https://github.com/aronchick/MLOps-data.git
+	branch = master
